@@ -97,7 +97,7 @@ progress::-webkit-progress-value {
 </style>
 
 <?php
-$my_web_site = "http://YouSite.Ru"; // АДРЕС ВАШЕГО САЙТА "http://site.ru"; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+$my_web_site = "http://ankondyurin.github.io"; // АДРЕС ВАШЕГО САЙТА "http://site.ru"; !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // ХОСТИНГ https://sprinthost.ru/s4569
 
 $today = date("Y.m.d H:i:s"); //получаем текущие дату и время
